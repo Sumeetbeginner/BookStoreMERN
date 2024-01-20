@@ -1,6 +1,6 @@
 
-#MERN Book Store 
-##CRUD Application
+# MERN Book Store 
+## CRUD Application
 
 To Run the Application
 
